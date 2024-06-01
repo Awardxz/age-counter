@@ -6,12 +6,17 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    user-select: none;
 }
 
-.main{
+
+
+.dateInput{
     display: flex;
-    text-align: center;
+    justify-content: flex-end;
+    font-size: 15px;
 }
+
 #agePercentage{
     width: 100%;
     height: 100%;
