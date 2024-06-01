@@ -4,16 +4,14 @@
 </div>
 
 [![Supported by Award](https://img.shields.io/badge/Supported%20by-Award-blue)](https://github.com/Awardxz)
-[![Website Hosted at](https://age-counter-lake.vercel.app/)
-
 
 This project is a real-time age counter that calculates and displays your age in years, days, hours, minutes, and seconds based on your birthdate input. The age is updated every millisecond.
 
+Use it at -> <a href="https://age-counter-lake.vercel.app/">age-counter</a>
 ## Features
 
 - Real-time age calculation and display
 - Dynamic updating every millisecond
-- Displays age in years, days, hours, minutes, and seconds
 
 ## Prerequisites
 
